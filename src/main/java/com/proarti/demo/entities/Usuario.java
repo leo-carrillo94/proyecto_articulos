@@ -25,7 +25,6 @@ public class Usuario {
 		
 	}
 	
-
 	
 	public Usuario(int id, String username, String password, String nombres, String email) {
 		super();
